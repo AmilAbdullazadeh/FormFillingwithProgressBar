@@ -1,0 +1,10 @@
+@media only screen and (min-width: 0px) and (max-width: 576px) {
+  #msform #progressbar {
+    margin-right: 50px;
+  }
+  #msform fieldset {
+    margin: 0 4% !important;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */
